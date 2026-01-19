@@ -7,13 +7,23 @@
     Пользователь Arch Linux 🐧 & Windows 🪟
   </h3>
 
-  <br> <a href="https://skillicons.dev">
+  <br>
+
+  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,js,php,react,bash,windows,arch,vscode,git&theme=dark" />
   </a>
 
-  <br><br> <a href="https://github.com/anuraghazra/github-readme-stats">
+  <br><br>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
     <img height="180" src="https://github-readme-stats.vercel.app/api?username=apvcode&show_icons=true&theme=tokyonight&locale=ru&hide_border=true" />
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apvcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  </a>
+
+  <br><br>
+
+  <a href="https://github.com/apvcode/apvcode/actions/workflows/snake.yml">
+    <img src="https://raw.githubusercontent.com/apvcode/apvcode/output/github-contribution-grid-snake-dark.svg" />
   </a>
 
 </div>
