@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**apvcode/apvcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h1>Привет, я apvcode! 👋</h1>
 
-Here are some ideas to get you started:
+  <h3>
+    Backend & Frontend Dev | Пишу софт под Windows<br>
+    Пользователь Arch Linux 🐧 & Windows 🪟
+  </h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <br> <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,js,php,react,bash,windows,arch,vscode,git&theme=dark" />
+  </a>
+
+  <br><br> <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=apvcode&show_icons=true&theme=tokyonight&locale=ru&hide_border=true" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apvcode&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+  </a>
+
+</div>
