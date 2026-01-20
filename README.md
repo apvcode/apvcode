@@ -9,11 +9,14 @@
 
   <br>
 
-  <div display="inline-block">
+  <div>
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=py,js,php,react,bash,windows,arch,vscode,git&theme=dark" />
     </a>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/ISO_Unoficcial_HolyC_Logo.svg/48px-ISO_Unoficcial_HolyC_Logo.svg.png" width="48" height="48" alt="TempleOS" style="vertical-align:top; margin-left: -5px;" />
+    <img src="https://raw.githubusercontent.com/cia-foundation/HolyC/master/assets/holyc_logo.png" 
+         width="48" height="48" 
+         alt="TempleOS" 
+         style="border-radius: 10px; background-color: #1a1a1a; padding: 5px; vertical-align: top; margin-left: 2px;" />
   </div>
 
   <br>
