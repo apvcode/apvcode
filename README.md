@@ -10,7 +10,7 @@
   <br>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,php,react,bash,windows,arch,vscode,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=py,js,php,react,bash,windows,arch,vscode,git,templeos&theme=dark" />
   </a>
 
   <br><br>
