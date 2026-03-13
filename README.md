@@ -2,6 +2,8 @@
 
 <h1>Hi! 👋</h1>
 
+<img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=22&center=true&vCenter=true&width=600&lines=Backend+Developer;Frontend+Developer;Arch+Linux+User;Building+Software+for+Windows+and+Linux" />
+
 <h3>
 Backend & Frontend Dev | Пишу софт под Windows & Linux<br>
 Пользователь Arch Linux 🐧 & Windows 🪟
@@ -10,7 +12,7 @@ Backend & Frontend Dev | Пишу софт под Windows & Linux<br>
 <br>
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css,react,bash,c,cpp,cs,windows,linux,arch,vscode,git,github,docker,templeos&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,js,ts,php,html,css,react,bash,c,cpp,cs,windows,linux,arch,git,github,docker,vscode,templeos&theme=dark" />
 </a>
 
 <br><br>
