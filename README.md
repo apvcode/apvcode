@@ -6,7 +6,7 @@
 
 <h3>
 Backend & Frontend Dev | Пишу софт под Windows & Linux<br>
-Пользователь Arch Linux 🐧 & Windows 🪟
+Пользователь Arch Linux 🐧 & Windows 
 </h3>
 
 <br>
