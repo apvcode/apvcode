@@ -14,6 +14,9 @@ Backend & Frontend Dev | Пишу софт под Windows & Linux<br>
 <a href="https://t.me/AxoGramReleases">
 <img src="https://img.shields.io/badge/Telegram-AxoGram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
+<a href="https://t.me/AxoGramReleases">
+<img src="https://img.shields.io/badge/Telegram-AxoGram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
 
 <br><br>
 
