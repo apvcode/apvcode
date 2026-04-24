@@ -42,7 +42,6 @@ Backend & Frontend Dev | Пишу софт под Windows & Linux<br>
 <img src="https://img.shields.io/badge/AxoGram-Telegram_Mod-2196F3?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 <br><br>
-Telegram мод с Ghost Mode, прокси, улучшенным UI и множеством твиков
 <br><br>
 <a href="https://github.com/apvcode/axogram/releases/latest">
 <img src="https://img.shields.io/github/v/release/apvcode/axogram?style=flat-square&label=Download&color=2196F3"/>
